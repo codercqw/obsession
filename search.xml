@@ -5,7 +5,7 @@
     <url>/obsession/2020/03/22/helloWorld/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>categories</category>
+        <category>前端</category>
       </categories>
       <tags>
         <tag>blog</tag>
@@ -27,6 +27,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
+<a id="more"></a>]]></content>
   </entry>
 </search>
