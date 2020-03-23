@@ -5,9 +5,9 @@
   <subtitle>大多数人想要改造这个世界，但却罕有人想改造自己。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/codercqw/obsession.git/"/>
+  <link href="https://www.codercqw.cn/"/>
   <updated>2020-03-22T08:38:05.845Z</updated>
-  <id>https://gitee.com/codercqw/obsession.git/</id>
+  <id>https://www.codercqw.cn/</id>
   
   <author>
     <name>执念</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>helloWorld</title>
-    <link href="https://gitee.com/codercqw/obsession.git/2020/03/22/helloWorld/"/>
-    <id>https://gitee.com/codercqw/obsession.git/2020/03/22/helloWorld/</id>
+    <link href="https://www.codercqw.cn/2020/03/22/helloWorld/"/>
+    <id>https://www.codercqw.cn/2020/03/22/helloWorld/</id>
     <published>2020-03-22T07:23:03.000Z</published>
     <updated>2020-03-22T08:38:05.845Z</updated>
     
@@ -28,17 +28,17 @@
     </summary>
     
     
-      <category term="前端" scheme="https://gitee.com/codercqw/obsession.git/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://www.codercqw.cn/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="blog" scheme="https://gitee.com/codercqw/obsession.git/tags/blog/"/>
+      <category term="blog" scheme="https://www.codercqw.cn/tags/blog/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gitee.com/codercqw/obsession.git/2020/03/22/hello-world/"/>
-    <id>https://gitee.com/codercqw/obsession.git/2020/03/22/hello-world/</id>
+    <link href="https://www.codercqw.cn/2020/03/22/hello-world/"/>
+    <id>https://www.codercqw.cn/2020/03/22/hello-world/</id>
     <published>2020-03-22T04:44:02.164Z</published>
     <updated>2020-03-22T08:55:01.538Z</updated>
     
